@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
   <li><a href="https://github.com/Tala1122/GoogleSecurityPortfolio">Google CyberSecurity Portfolio</a></li>
+  <li><a href="https://github.com/Tala1122/TargetCyberDefense2024">WiCyS 2024 Target CyberDefense WriteUp</a></li>
 <h2> 📄 Certifications</h2>
   <li>CompTIA Security+ SY-701</li>
   <li>Google Cybersecurity Certificate</li>
