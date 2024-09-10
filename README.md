@@ -5,6 +5,7 @@
   <li><a href="https://github.com/Tala1122/TargetCyberDefense2024">WiCyS 2024 Target CyberDefense WriteUp</a></li>
   <li><a href="https://github.com/Tala1122/AzureSentinelAttackMap">Azure Sentinel Map with Live Attacks</a></li>
   <li><a href="https://github.com/Tala1122/OpenVASVulnerabilityManagement">OpenVAS Vulnerability Management</a></li>
+  <li><a href="https://github.com/Tala1122/FileIntegrityMonitor">File Integrity Monitor</a></li>
 <h2> 📄 Certifications</h2>
   <li>CompTIA Security+ SY-701</li>
   <li>Google Cybersecurity Certificate</li>
