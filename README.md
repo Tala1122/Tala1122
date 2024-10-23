@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
   <li><a href="https://github.com/Tala1122/GoogleSecurityPortfolio">Google CyberSecurity Portfolio</a></li>
-  <li><a href="https://github.com/Tala1122/IncidentResponse">Clicked Incident Response Portfolio</a><li>
+  <li><a href="https://github.com/Tala1122/IncidentResponse">Clicked Incident Response Portfolio</a></li>
   <li><a href="https://github.com/Tala1122/TargetCyberDefense2024">WiCyS 2024 Target CyberDefense WriteUp</a></li>
   <li><a href="https://github.com/Tala1122/AzureSentinelAttackMap">Azure Sentinel Map with Live Attacks</a></li>
   <li><a href="https://github.com/Tala1122/OpenVASVulnerabilityManagement">OpenVAS Vulnerability Management</a></li>
